@@ -1,4 +1,4 @@
-# Isamu Poy
+# Isamu Poy (hello.py is for Ativity 1; hello2.py is for Activity 2)
 this repo is a clone of https://github.com/miguelgrinberg/flasky
 Activity 1: 
 ![stamp](https://github.com/isamumu/ECE444-F2020-Lab3/blob/master/hello_flasky_time.PNG)
